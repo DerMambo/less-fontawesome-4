@@ -3,7 +3,7 @@
   "description": "Adds the less version of fontawesome 4",
   "homepage": "https://github.com/DerMambo/less-fontawesome-4.git",
   "author": "Manuel Schoebel (http://manuel-schoebel.com)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/DerMambo/less-fontawesome-4.git",
   "packages": {}
 }
